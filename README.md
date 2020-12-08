@@ -19,19 +19,19 @@ VisualDL提供丰富的可视化功能，支持标量、图结构、数据样本
 
 > AIStudio链接：https://aistudio.baidu.com/aistudio/projectdetail/1285464
 
-* 使用VisualDL助力上手PaddleGAN（初体验）
+* [使用VisualDL助力上手PaddleGAN（初体验）](https://github.com/iceriver97/VisualDL-practice/tree/main/ppgan-1301678)
 
 > 本项目为初次体验 PaddleGAN v0.1.0，并且在体验过程中利用 VisualDL 的可视化功能为我们做一些结果的展示，通过可视化结果来帮助我们更好的体验PaddleGAN；
 
 > AIStudio链接：https://aistudio.baidu.com/aistudio/projectdetail/1301678
 
-* 使用VisualDL助力遥感影像地块分割（PaddleX 篇）
+* [使用VisualDL助力遥感影像地块分割（PaddleX 篇）](https://github.com/iceriver97/VisualDL-practice/tree/main/land_classification/paddlex-1224783)
 
 > 该项目利用VisualDL这个强大的可视化工具，以遥感影像地块分割为背景，在实战中展示如何应用VisualDL的各个功能，与PaddleSeg篇结合体验；
 
 > AIStudio链接：https://aistudio.baidu.com/aistudio/projectdetail/1224783
 
-* 使用VisualDL助力遥感影像地块分割（PaddleSeg 篇）
+* [使用VisualDL助力遥感影像地块分割（PaddleSeg 篇）](https://github.com/iceriver97/VisualDL-practice/tree/main/land_classification/paddleseg-1240371)
 
 > 该项目利用VisualDL这个强大的可视化工具，以遥感影像地块分割为背景，在实战中展示如何应用VisualDL的各个功能，与PaddleX篇结合体验；
 
