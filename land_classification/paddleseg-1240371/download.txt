@@ -1,0 +1,2 @@
+paddleSeg 下载地址： https://aistudio.baidu.com/aistudio/datasetdetail/61805
+数据集下载地址： https://aistudio.baidu.com/aistudio/datasetdetail/61269
