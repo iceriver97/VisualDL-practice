@@ -7,7 +7,9 @@ VisualDL提供丰富的可视化功能，支持标量、图结构、数据样本
 
 ## 项目简介
 
-我们在实战项目中学习使用VisualDL这个强大的可视化工具，所有项目在AIStudio上都有可以一键运行的notebook，欢迎大家去AIStudio上体验！
+我们在实战项目中学习使用VisualDL这个强大的可视化工具，具体项目的使用方法都在项目的 ipynb 文件中；
+
+所有项目在AIStudio上都有可以一键运行的notebook，欢迎大家去AIStudio上体验！
 
 * 使用VisualDL可视化模型：PSPNet
 
@@ -32,5 +34,7 @@ VisualDL提供丰富的可视化功能，支持标量、图结构、数据样本
 * 使用VisualDL助力遥感影像地块分割（PaddleSeg 篇）
 
 > 该项目利用VisualDL这个强大的可视化工具，以遥感影像地块分割为背景，在实战中展示如何应用VisualDL的各个功能，与PaddleX篇结合体验；
+
+> 注意该项目的数据集较大，如果下载较慢，可以去AIStudio上体验，免去下载的烦恼！
 
 > AIStudio链接：https://aistudio.baidu.com/aistudio/projectdetail/1240371
