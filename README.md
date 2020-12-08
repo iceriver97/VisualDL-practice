@@ -11,7 +11,7 @@ VisualDL提供丰富的可视化功能，支持标量、图结构、数据样本
 
 所有项目在AIStudio上都有可以一键运行的notebook，欢迎大家去AIStudio上体验！
 
-* 使用VisualDL可视化模型：PSPNet
+* [使用VisualDL可视化模型：PSPNet](https://github.com/iceriver97/VisualDL-practice/tree/main/pspnet-1285464)
 
 > 如果你是一个新手，在使用飞桨成熟的套件完成任务的同时，会不会好奇使用的网络长什么样呢？网络在套件中又是如何实现的呢？
 
